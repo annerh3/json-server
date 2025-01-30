@@ -1,14 +1,11 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "data": {
+    "fullName": "Adminstrador Blog",
+    "email": "admin@blogunah.edu",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9lbWFpbGFkZHJlc3MiOiJhZG1pbkBibG9ndW5haC5lZHUiLCJqdGkiOiI4OGQ0ZWM4NS1hYTk4LTRjMDUtOTg4My0zNTcyNzY4MzFmYTQiLCJVc2VySWQiOiI5M2Y5ZWNlNC01YzZlLTQ3OWYtYTFhNS1lN2VkOWNmNjUwNDIiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJBRE1JTiIsImV4cCI6MTczODI3NTIxNywiaXNzIjoiaHR0cHM6Ly9sb2NhbGhvc3Q6NzA3NCIsImF1ZCI6Imh0dHA6Ly9sb2NhbGhvc3Q6NTE3MyJ9.YjIqhK02sIr0YVV2BoNxwjz6fn152uvnIVQ1t7LY1JE",
+    "tokenExpiration": "2025-01-30T22:13:37Z",
+    "refreshToken": "AK7oXrkH+cGXnRKrR8ZdPMsc8XKTwGhHw+Dzeuwh+/zg2QP9yNsV7+UbInEHREawlj2NytBlVCc3oMOwPPsQ2g=="
+  },
+  "message": "Inicio de sesion satisfactorio",
+  "status": true
 }
